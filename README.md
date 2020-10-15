@@ -78,7 +78,7 @@ The only thing I could not do about the challange is to containerize the applica
 
 ## Challenge Solution by
 
-* **José Nicolielly** - - [jcnil](https://github.com/jcnil)
+* **José Nicolielly** - - [jcnil](https://github.com/jcnil/ChallengeSuggestic)
 
 
 
